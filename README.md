@@ -7,3 +7,4 @@
 - [Basic Joins](https://github.com/ric-sar/sql_50/blob/main/basic_joins.md)
 - [Basic Aggregate Functions](https://github.com/ric-sar/sql_50/blob/main/basic_aggregate_functions.md)
 - [Sorting and Grouping](https://github.com/ric-sar/sql_50/blob/main/sorting_and_grouping.md)
+- [Advanced Select and Joins](https://github.com/ric-sar/sql_50/blob/main/advanced_select_and_joins.md) (WIP)
